@@ -1,6 +1,6 @@
 ### Hi there 👋
-# - 🔭 I’m currently working on finding job
-# - 🌱 I’m currently learning DeepLearning
+🔭 I’m currently working on finding job
+🌱 I’m currently learning DeepLearning
 
 <!--
 **qiu-xiaoqi/qiu-xiaoqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
